@@ -48,5 +48,13 @@
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.",
   "main": "karma.conf.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prannal/myapp_docker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prannal/myapp_docker/issues"
+  },
+  "homepage": "https://github.com/prannal/myapp_docker#readme"
 }
